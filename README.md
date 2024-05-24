@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
+
   <div>
 <h1> RUSUME APP  </h1>
   <img  height= "550" src="https://github.com/ronnie9901/resumeapp/assets/148763509/dab019d1-b953-49b6-a75a-45141922fb8f"  />
@@ -31,10 +32,14 @@ samples, guidance on mobile development, and a full API reference.
   <img  height= "550" src="https://github.com/ronnie9901/resumeapp/assets/148763509/14a150fd-dac9-43bc-95b4-8c79b43e59db"  />
   <img  height= "550" src="https://github.com/ronnie9901/resumeapp/assets/148763509/bbddc162-93e6-4407-8850-b2ed399f2c58"  />
   <img  height= "550" src="https://github.com/ronnie9901/resumeapp/assets/148763509/5b0ff19e-e0f9-4f05-9728-0cf77dcdbcd3"  />
-  <img  height= "550" src="https://github.com/ronnie9901/resumeapp/assets/148763509/68990916-5e70-4a78-aa47-da3d4b2a1b3a"  />
+  <img  height= "550" src="https://github.com/ronnie9901/resumeapp/assets/148763509/26b2ce43-6b60-4994-adc4-59014011d721"  />
 
   
 https://github.com/ronnie9901/resumeapp/assets/148763509/7756d18a-0e87-47b0-9675-70c820733893
+
+
+https://github.com/ronnie9901/resumeapp/assets/148763509/eda02b1d-4705-449c-8421-d983a1cebb75
+
 
 
 
